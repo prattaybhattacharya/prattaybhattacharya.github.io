@@ -6,7 +6,7 @@ subtitle: High School Senior @ Winchester High School - Fascinated by cells, fro
 
 profile:
   align: right
-  image: prattay_2024_ 20.jpg
+  image: prattay_2024_20.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
