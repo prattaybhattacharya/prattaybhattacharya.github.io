@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: High School Senior @ Winchester High School - Fascinated by cells, from ones in animals to those in spreadsheets
 
 profile:
   align: right
