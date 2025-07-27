@@ -14,7 +14,7 @@ profile:
 
 I'm an undergrad at the University of Pennsylvania studying bioengineering. I'm fascinated by cells, whether they be animal cells or spreadsheet cells!
 
-Need one-on-one tutoring or college admissions advice? [Book a virtual session](/al-folio/teaching/)! Here are reviews from some of my past tutees:
+Need one-on-one tutoring or college admissions advice? [Book a virtual session](https://prattaybhattacharya.github.io/teaching/)! Here are reviews from some of my past tutees:
 
 <ul> 
   
