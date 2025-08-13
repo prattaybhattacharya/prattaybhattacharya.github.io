@@ -32,6 +32,6 @@ Need one-on-one tutoring or college admissions advice? [Book a virtual session](
 
 <link rel="shortcut icon" type="image/png" href="./assets/img/favicon.png">
 
-<a style="margin: 0 5px 0 0" width="100 pixels" href="https://www.linkedin.com/in/prattay-bhattacharya-932766265/">
-          <i class="fab fa-linkedin"></i>
+<a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/prattay-bhattacharya-932766265/">
+          <i class="fab fa-linkedin" style="font-size: 100px;"></i>
         </a>
