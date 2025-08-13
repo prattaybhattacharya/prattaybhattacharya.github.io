@@ -29,3 +29,9 @@ Need one-on-one tutoring or college admissions advice? [Book a virtual session](
 <li> "Extremely interesting as well as informative, as always teaches enthusiastically and keeps the entire class engaged."</li>
 
 </ul>
+
+<link rel="shortcut icon" type="image/png" href="./assets/img/favicon.png">
+
+<a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/prattay-bhattacharya-932766265/">
+          <i class="fab fa-linkedin"></i>
+        </a>
